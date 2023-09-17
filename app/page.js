@@ -1,4 +1,4 @@
-import Signout from './alldata/page';
+import Signout from './signout/page';
 
 
 export default function Home() {
